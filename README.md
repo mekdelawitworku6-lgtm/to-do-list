@@ -32,8 +32,3 @@ This project is made for **beginners** who are learning React Native basics.
 - React Hooks (`useState`)
 - DateTime Picker (`@react-native-community/datetimepicker`)
 - JavaScript (ES6)
-
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
